@@ -1,0 +1,22 @@
+{
+  "name": "am-systems-landing",
+  "version": "1.0.0",
+  "description": "Landing page profesional para AM Systems - Desarrollo de Software",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "landing",
+    "node",
+    "express",
+    "am-systems"
+  ],
+  "author": "AM Systems",
+  "license": "ISC",
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "express": "^4.18.2"
+  }
+}
